@@ -10,7 +10,7 @@ Your Place for GameBoy/Pocket Camera related Label resources.
 
 
 ## What can you found here
-I try to re-create all GB Camera related Label, for all those who need a replacement one because the Original is broken. I created all Labels as Vector for best resolution.
+I try to re-create all GB Camera related Label, for all those who need a replacement one because the Original is broken. I created all Labels as Vector for best resolution. For the re-creation i used Hi-Res Scans i've created, (or found in case of US stuff) and measured as good as possible.
 
 What Labels have I done?
 * Gameboy Camera Label in different Color variation
