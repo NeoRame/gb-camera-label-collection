@@ -47,3 +47,7 @@ All other colors, based on @23kpixels Label source, are untested and may differ 
 
 ## Author contribution aka Credits:
 * [crizzlycruz aka @23kpixels](https://www.instagram.com/23kpixels/?hl=en) for this Repo Idea and his Hello Kitty Logo Source and US Silver Label.
+
+# Licence
+* [Creativ Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+For yourself, do what you want... but dont make money with this stuff! And don't forget the Credits ;)
